@@ -10,7 +10,7 @@ For me, the field of ICT is very dynamic due to the technologies that are consta
 
 # Assignment 2
 
-
+The industrial visit to UTMDigital proved to be an enlightening experience, providing an invaluable insight into the realm of digital innovation and technology. Engaging with experts and professionals in various fields expanded my understanding of what I need to achieve in order for me to persue my dreams.
 
 # Assignment 3
 
