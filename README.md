@@ -14,11 +14,9 @@ The industrial visit to UTMDigital proved to be an enlightening experience, prov
 
 # Assignment 3
 
-Based on Industrial talk 2, Miss Qistina shared about system development, analytics, and Credence provide a valuable perspective on the intersection of technology, data, and the skills needed in the evolving field of data engineering.
+Based on Industrial talk 2, the insights shared by Miss Qistina in Industrial Talk 2 and the importance of system development, analytics, and Credence's approach, I realize the crucial role data plays in decision-making. The synergy between system development and analytics underscores the need for effective data handling throughout the process.
 
-Knowing how system development and analytics are related highlights the importance of data in decision-making and highlights the necessity of effective data collection, transformation, and visualization.
-
-The history of Credence provided by Miss Qistina serves as an example of how businesses are using digital and cloud technologies to cater to local client needs. Furthermore, the technologies and tools utilized in Credence's system development—such as Tableau, PostgreSQL, and Airflow—highlight the variety of tools utilized in the sector.  
+Miss Qistina's discussion on Credence's history showcases the adaptability of businesses to local client needs through digital and cloud technologies. It's inspiring to see how tools like Tableau, PostgreSQL, and Airflow are integral in shaping Credence's system development, emphasizing the diverse toolkit employed in the ever-evolving field of data engineering. This insight motivates me to stay abreast of such technologies and skills to thrive in this dynamic industry.
 
 # Assignment 4
 
