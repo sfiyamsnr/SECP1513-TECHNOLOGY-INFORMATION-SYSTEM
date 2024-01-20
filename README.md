@@ -6,8 +6,6 @@ First of all, I’m very grateful to have had the opportunity to attend this car
 
 Other that that, I will upgrade my skills by taking free courses and acquire certificates from MDEC, Google and HRDF. Even though one of the Second Year student said about how hard this course was, I view them as opportunities for my self-growth. I believe that in whatever we do, we still have to face some challenges along the way.
 
-For me, the field of ICT is very dynamic due to the technologies that are constantly emerging. That’s why we need professionals in this field to stay updated with the latest technologies. Therefore, the organizations will stay at the forefront of industry trends.
-
 # Assignment 2
 
 The industrial visit to UTMDigital proved to be an enlightening experience, providing an invaluable insight into the realm of digital innovation and technology. Engaging with experts and professionals in various fields expanded my understanding of what I need to achieve in order for me to persue my dreams.
@@ -18,9 +16,7 @@ Based on Industrial talk 2, the insights shared by Miss Qistina in Industrial Ta
 
 Miss Qistina's discussion on Credence's history showcases the adaptability of businesses to local client needs through digital and cloud technologies. It's inspiring to see how tools like Tableau, PostgreSQL, and Airflow are integral in shaping Credence's system development, emphasizing the diverse toolkit employed in the ever-evolving field of data engineering. This insight motivates me to stay abreast of such technologies and skills to thrive in this dynamic industry.
 
-# Assignment 4
-
-One could investigate how information technology innovation is transforming education by means of e-learning platforms, interactive tools, or customised learning experiences. These approaches can offer valuable perspectives on the advantages that both students and educators derive from education facilitated by technology. 
+# Assignment 4 
 
 I've learned from this industrial visit that one way that innovation benefits human lives is by enabling people to complete everyday tasks more quickly than they could have in the past by utilizing technology. Communication is greatly impacted by technology.  
 
